@@ -1,0 +1,9 @@
+My Personal and Academic Goals for Next Year
+
+1. Earn the Cisco Certified Network Associate (CCNA) certification to strengthen my networking knowledge and cybersecurity foundation.
+2. Complete a specialization in cybersecurity through Coursera and gain hands-on experience with tools like Wireshark, Nmap, and Metasploit.
+3. Build and launch at least one full-stack project (web or mobile app) addressing a real-world problem, preferably in transportation or education.
+4. Participate in at least two hackathons or innovation challenges to enhance my teamwork, creativity, and coding skills.
+5. Improve my public speaking and presentation skills by joining tech meetups or student communities and presenting my work.
+6. Maintain a strong GPA in my Computer Science program and strive for academic excellence.
+7. Contribute to open-source or community tech projects, especially those focused on African digital development or youth empowerment.
