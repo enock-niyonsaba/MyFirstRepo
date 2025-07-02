@@ -1,4 +1,4 @@
-What I’ve Learned About Version Control, Git, GitHub, and Best Practices
+What I have learned from this course
 
 I’ve learned that version control is a system that helps track changes to files and manage code over time, allowing teams to collaborate efficiently and avoid conflicts or loss of work. One of the most popular version control systems is Git, which allows developers to create snapshots of their code (called commits) and work on different features or fixes using branches.
 
