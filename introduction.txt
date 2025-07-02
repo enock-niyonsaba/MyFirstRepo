@@ -5,7 +5,7 @@ With a strong foundation in software development and a growing interest in cyber
 I am dedicated to using technology to solve real-world problems. 
 Over the years, I have participated in various workshops and hackathons, 
 gaining hands-on experience in web and mobile application development, 
-cloud computing, and network fundamentals. 
+cloud computing, and network fundamentals.
 My journey is driven by curiosity, continuous learning, and a desire to build impactful digital solutions.
 
 Currently, I am expanding my knowledge in cybersecurity through platforms like TryHackMe, Cisco Networking Academy, and Coursera. 
